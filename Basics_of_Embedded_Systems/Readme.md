@@ -18,3 +18,10 @@ write a function in Embedded C use LED connection such that:
 2. clears bit 2
 3. toggles bit 7
 4. Returns 1 if bit 0 is set, else 0
+
+------------------------------------------------------------
+#10/09/2025
+1. LCD Connection
+Connected LCD Display with Arduino UNO and displayed some messages on that.
+
+------------------------------------------------------------

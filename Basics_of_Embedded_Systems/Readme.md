@@ -25,3 +25,8 @@ write a function in Embedded C use LED connection such that:
 Connected LCD Display with Arduino UNO and displayed some messages on that.
 
 ------------------------------------------------------------
+#11/09/2025
+1. LED Button HAL Project
+Created a modular file system to blink a LED light using button click.
+
+------------------------------------------------------------

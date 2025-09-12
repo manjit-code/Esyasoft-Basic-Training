@@ -11,22 +11,32 @@
 
         static void homePage()
         {
-            Console.WriteLine("Welcome to our Banking System.");
-            Console.WriteLine("Select Transaction Option You want to do: ");
-            Console.WriteLine("1. Create a new bank account");
-            Console.WriteLine("2. Deposit Money");
-            Console.WriteLine("3. Withdraw Money");
-            Console.WriteLine("4. Display");
-            Console.WriteLine("5. Exit \n");
+            while (true)
+            {
+                Console.WriteLine("Welcome to our Banking System.");
+                Console.WriteLine("Select Transaction Option You want to do: ");
+                Console.WriteLine("1. Create a new bank account");
+                Console.WriteLine("2. Deposit Money");
+                Console.WriteLine("3. Withdraw Money");
+                Console.WriteLine("4. Display");
+                Console.WriteLine("5. Exit \n");
 
-            Console.Write("Choose Option: ");
-            int inputOption = Convert.ToInt32(Console.ReadLine());
-            if (inputOption == 1) createAccount();
-            else if(inputOption == 2) deposit();
-            else if (inputOption == 3) withdraw();
-            else if (inputOption == 4) displayAccount();
-            else exit();
-           
+                Console.Write("Choose Option: ");
+                int inputOption = Convert.ToInt32(Console.ReadLine());
+                if (inputOption == 1) createAccount();
+                else if (inputOption == 2) deposit();
+                else if (inputOption == 3) withdraw();
+                else if (inputOption == 4) displayAccount();
+                else if (inputOption == 5)
+                {
+                    exit();
+                    return;
+                }
+                else
+                {
+                    Console.WriteLine("Invalid option. Please try again.");
+                }
+            }
         }
         static void createAccount()
         {
@@ -42,7 +52,7 @@
                 "1. Saving Account \n" +
                 "2. Salary Account \n" +
                 "3. Business Account\n");
-            int inpType = Convert.ToInt32(Console.Read());
+            int inpType = Convert.ToInt32(Console.ReadLine());
             if (inpType == 3) accountType = "Business Account";
             else if (inpType == 2) accountType = "Salary Account";
             else accountType = "Saving Account";
@@ -55,16 +65,17 @@
                 "You created a new Bank Account at SBI\n" +
                 "Your Account Number is: 123456789109\n" +
                 "Your Account Type: " + accountType +
-                "Your Current Balance is: 0\n"
+                "\nYour Current Balance is: 0\n"
             );
 
-            Console.WriteLine("Would You like to Deposit Money: \n" +
+            Console.WriteLine("Would You like to Deposite Money: \n" +
                 "1. YES\n" +
-                "2. EXIT To DASHBOARD"
+                "2. EXIT\n"
                 );
-            inpType = Convert.ToInt32(Console.Read());
-            if(inpType == 1) deposit();
-            return;
+
+            int optionX = Convert.ToInt32(Console.ReadLine());
+            if (optionX == 1) deposit();
+            else exit();
         }
 
         static void deposit()

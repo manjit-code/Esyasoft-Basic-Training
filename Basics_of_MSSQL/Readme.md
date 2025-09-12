@@ -18,3 +18,8 @@
 # Topics: Joins, Group By, Window Function
 
 ------------------------------------------------------------
+# 12-09-2025
+# Completed Week 2 Assignment 3
+# Topics: GETDATE, CONCAT, REPLACE, CAST, etc
+
+------------------------------------------------------------

@@ -1,0 +1,15 @@
+D:\Basic-Training-Class-Activity\DLMS\DLMS_GET_REQ\bin\Debug\net8.0\DLMS_GET_REQ.exe
+D:\Basic-Training-Class-Activity\DLMS\DLMS_GET_REQ\bin\Debug\net8.0\DLMS_GET_REQ.deps.json
+D:\Basic-Training-Class-Activity\DLMS\DLMS_GET_REQ\bin\Debug\net8.0\DLMS_GET_REQ.runtimeconfig.json
+D:\Basic-Training-Class-Activity\DLMS\DLMS_GET_REQ\bin\Debug\net8.0\DLMS_GET_REQ.dll
+D:\Basic-Training-Class-Activity\DLMS\DLMS_GET_REQ\bin\Debug\net8.0\DLMS_GET_REQ.pdb
+D:\Basic-Training-Class-Activity\DLMS\DLMS_GET_REQ\obj\Debug\net8.0\DLMS_GET_REQ.GeneratedMSBuildEditorConfig.editorconfig
+D:\Basic-Training-Class-Activity\DLMS\DLMS_GET_REQ\obj\Debug\net8.0\DLMS_GET_REQ.AssemblyInfoInputs.cache
+D:\Basic-Training-Class-Activity\DLMS\DLMS_GET_REQ\obj\Debug\net8.0\DLMS_GET_REQ.AssemblyInfo.cs
+D:\Basic-Training-Class-Activity\DLMS\DLMS_GET_REQ\obj\Debug\net8.0\DLMS_GET_REQ.csproj.CoreCompileInputs.cache
+D:\Basic-Training-Class-Activity\DLMS\DLMS_GET_REQ\obj\Debug\net8.0\DLMS_GET_REQ.sourcelink.json
+D:\Basic-Training-Class-Activity\DLMS\DLMS_GET_REQ\obj\Debug\net8.0\DLMS_GET_REQ.dll
+D:\Basic-Training-Class-Activity\DLMS\DLMS_GET_REQ\obj\Debug\net8.0\refint\DLMS_GET_REQ.dll
+D:\Basic-Training-Class-Activity\DLMS\DLMS_GET_REQ\obj\Debug\net8.0\DLMS_GET_REQ.pdb
+D:\Basic-Training-Class-Activity\DLMS\DLMS_GET_REQ\obj\Debug\net8.0\DLMS_GET_REQ.genruntimeconfig.cache
+D:\Basic-Training-Class-Activity\DLMS\DLMS_GET_REQ\obj\Debug\net8.0\ref\DLMS_GET_REQ.dll

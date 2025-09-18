@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Esyasoft-Basic-Training\\DLMS\\DLMS_GET_REQ\\DLMS_GET_REQ.csproj",
+      "projectUniqueName": "D:\\Esyasoft-Basic-Training\\Basics of DLMS\\DLMS_GET_REQ\\DLMS_GET_REQ.csproj",
       "projectName": "DLMS_GET_REQ",
-      "projectPath": "D:\\Esyasoft-Basic-Training\\DLMS\\DLMS_GET_REQ\\DLMS_GET_REQ.csproj",
+      "projectPath": "D:\\Esyasoft-Basic-Training\\Basics of DLMS\\DLMS_GET_REQ\\DLMS_GET_REQ.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "D:\\Esyasoft-Basic-Training\\DLMS\\DLMS_GET_REQ\\obj\\",
+      "outputPath": "D:\\Esyasoft-Basic-Training\\Basics of DLMS\\DLMS_GET_REQ\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",

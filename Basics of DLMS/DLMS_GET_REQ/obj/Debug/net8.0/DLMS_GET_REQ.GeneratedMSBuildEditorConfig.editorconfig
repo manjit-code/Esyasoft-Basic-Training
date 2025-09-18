@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = DLMS_GET_REQ
-build_property.ProjectDir = D:\Esyasoft-Basic-Training\DLMS\DLMS_GET_REQ\
+build_property.ProjectDir = D:\Esyasoft-Basic-Training\Basics of DLMS\DLMS_GET_REQ\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

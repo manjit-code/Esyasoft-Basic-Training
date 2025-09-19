@@ -47,3 +47,8 @@ analysis
 2. Did a sample 'Clustering' on random data
 
 ------------------------------------------------------------
+## 19/09/2025
+1. Learned about Deep Learning and Neural Networks
+2. Using Tensorflow.Keras trained a DL model => achieved 99.72% accuracy
+
+------------------------------------------------------------

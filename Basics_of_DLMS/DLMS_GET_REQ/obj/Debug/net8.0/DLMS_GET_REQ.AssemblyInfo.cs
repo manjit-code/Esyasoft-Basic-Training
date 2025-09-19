@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DLMS_GET_REQ")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5758bfd408343b0538cb0f033f5f098f3e1d60ad")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aff3b6da7af8f96698c0ac4f715ab051336b6447")]
 [assembly: System.Reflection.AssemblyProductAttribute("DLMS_GET_REQ")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DLMS_GET_REQ")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

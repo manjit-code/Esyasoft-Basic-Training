@@ -12,3 +12,10 @@ Used various high level function:
 1. map
 2. filter
 3. reduce 
+
+20/09/2025
+Extended learning on 'my-app'
+Learned about various react:
+useContext(), useReducer(),useMemo(), useRef()
+
+Also learned about prop-drilling, state-uplifting, propTypes set

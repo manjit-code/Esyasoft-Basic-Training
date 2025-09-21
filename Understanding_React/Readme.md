@@ -19,3 +19,7 @@ Learned about various react:
 useContext(), useReducer(),useMemo(), useRef()
 
 Also learned about prop-drilling, state-uplifting, propTypes set
+
+21/09/2025
+Added 'Mouse Tracker' component assignemt-2
+Used useState and useEffect hooks along with 'addEventListener' and 'removeEventListener'

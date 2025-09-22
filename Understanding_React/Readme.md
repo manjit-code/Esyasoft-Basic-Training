@@ -1,5 +1,6 @@
 ## 17/09/2025
 Created a React App and used various REACT features like:
+
 SPA, useState hooks, props,etc.
 
 ### Assignemt-1
@@ -21,7 +22,7 @@ Used various high level function:
 ------------------------------------------------------------
 ## 20/09/2025
 Extended learning on 'my-app'
-Learned about various react:
+Learned about various react hooks:
 useContext(), useReducer(),useMemo(), useRef()
 
 Also learned about prop-drilling, state-uplifting, propTypes set
@@ -31,4 +32,13 @@ Also learned about prop-drilling, state-uplifting, propTypes set
 ## 21/09/2025
 ### Assignment-2
 Added 'Mouse Tracker' component assignemt-2
+
 Used useState and useEffect hooks along with 'addEventListener' and 'removeEventListener'
+
+------------------------------------------------------------
+
+## 22/09/2025
+Added class work files:
+Learned useReducer(), API calling with Promises, custom Hook 
+
+------------------------------------------------------------

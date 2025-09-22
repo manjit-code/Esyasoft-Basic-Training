@@ -41,4 +41,7 @@ Used useState and useEffect hooks along with 'addEventListener' and 'removeEvent
 Added class work files:
 Learned useReducer(), API calling with Promises, custom Hook 
 
+### Assignment-3
+Block Highlight Feature: used useState, useEffect, useRef to highlight 3 different divs based on 'Prev' and 'Next' button clicks
+
 ------------------------------------------------------------

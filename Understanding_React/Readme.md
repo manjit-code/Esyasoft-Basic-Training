@@ -45,3 +45,13 @@ Learned useReducer(), API calling with Promises, custom Hook
 Block Highlight Feature: used useState, useEffect, useRef to highlight 3 different divs based on 'Prev' and 'Next' button clicks
 
 ------------------------------------------------------------
+
+## 23/09/2025
+Added Class Work App:
+### Routing-App
+Learned about 'react-routor-dom'. Learned how to use it to wrap the entire application. Used 'Link' to navigate through different routes.
+
+### Assignment-5
+Theme Change Application: used createContext, useContext, useState, useEffect to build this Theme Change Application
+
+------------------------------------------------------------

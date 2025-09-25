@@ -55,3 +55,7 @@ Learned about 'react-routor-dom'. Learned how to use it to wrap the entire appli
 Theme Change Application: used createContext, useContext, useState, useEffect to build this Theme Change Application
 
 ------------------------------------------------------------
+## 25/09/2025
+### Assignemnt-4
+### Number List Analyzer
+Used useMemo() and useCallback() to implement the analyzer

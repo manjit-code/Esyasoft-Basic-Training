@@ -10,3 +10,7 @@ Used OOPs concept to rebuild the 'BANKING APPLICATION'
 Completed Class Asignment-3:
 Learned various data structure and class
 Like: HashSet, Dictionary, Tuple, LinkedList, Array, List
+
+# 27/09/2025
+Stretched Goal Assignment: WEB API
+Solved code has been added.
